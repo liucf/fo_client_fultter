@@ -10,7 +10,7 @@ It is still under developing, have not published yet.
 - Full Audio player (play, pause, forward, backward, repeat, playlist, etc)
 - Audio playing in background
 - Playing progress indicator
-- Muliple language support
+- Multiple language support(En, ZH-Cn)
 
 ## Screenshots
 
@@ -48,14 +48,14 @@ It is still under developing, have not published yet.
   <tr>
     <td>Search</td>
      <td>Search Result</td>
-     <td>Playing</td>
-     <td>Progress</td>
+     <td>Login/Register English</td>
+     <td>Search English</td>
   </tr>
   <tr>
     <td><img src="screenshots/search_default.png" width=180></td>
     <td><img src="screenshots/search.png" width=180></td>
-    <td><img src="screenshots/playing.png" width=180></td>
-    <td><img src="screenshots/progress.png" width=180></td>
+    <td><img src="screenshots/login_en.png" width=180></td>
+    <td><img src="screenshots/search_en.png" width=180></td>
   </tr>
  </table>
 
