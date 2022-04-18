@@ -14,6 +14,19 @@ It is still under developing, have not published yet.
 
 ## Screenshots
 
+<table>
+  <tr>
+    <td>Register/Login</td>
+     <td>Player</td>
+     <td>Home</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/register.png" width=180></td>
+    <td><img src="screenshots/player.png" width=180></td>
+    <td><img src="screenshots/home.png" width=180></td>
+  </tr>
+ </table>
+
 <img src="screenshots/register.png" width="150" >
 <img src="screenshots/player.png" width="150" >
 ![Full Audio player](screenshots/player.png | width=50)
