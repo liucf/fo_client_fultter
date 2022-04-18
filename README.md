@@ -14,8 +14,8 @@ It is still under developing, have not published yet.
 
 ## Screenshots
 
-![Register](screenshots/register.png|width=80px)
-<img src="screenshots/player.png" width="80" >
+<img src="screenshots/register.png" width="150" >
+<img src="screenshots/player.png" width="150" >
 ![Full Audio player](screenshots/player.png | width=50)
 ![Home](screenshots/home.png | width=50)
 ![Category](screenshots/category.png | width=50)
