@@ -19,25 +19,45 @@ It is still under developing, have not published yet.
     <td>Register/Login</td>
      <td>Player</td>
      <td>Home</td>
+     <td>Category</td>
   </tr>
   <tr>
     <td><img src="screenshots/register.png" width=180></td>
     <td><img src="screenshots/player.png" width=180></td>
     <td><img src="screenshots/home.png" width=180></td>
+    <td><img src="screenshots/category.png" width=180></td>
   </tr>
  </table>
 
-<img src="screenshots/register.png" width="150" >
-<img src="screenshots/player.png" width="150" >
-![Full Audio player](screenshots/player.png | width=50)
-![Home](screenshots/home.png | width=50)
-![Category](screenshots/category.png | width=50)
-![detail](screenshots/detail.png | width=50)
-![myaccount](screenshots/myaccount.png | width=50)
-![playing](screenshots/playing.png | width=50)
-![playlist](screenshots/playlist.png | width=50)
-![price](screenshots/price.png | width=50)
-![progress](screenshots/progress.png | width=50)
+<table>
+  <tr>
+    <td>Detail</td>
+     <td>My Account</td>
+     <td>Playing</td>
+     <td>Progress</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/detail.png" width=180></td>
+    <td><img src="screenshots/myaccount.png" width=180></td>
+    <td><img src="screenshots/playing.png" width=180></td>
+    <td><img src="screenshots/progress.png" width=180></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td>Search</td>
+     <td>Search Result</td>
+     <td>Playing</td>
+     <td>Progress</td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/search_default.png" width=180></td>
+    <td><img src="screenshots/search.png" width=180></td>
+    <td><img src="screenshots/playing.png" width=180></td>
+    <td><img src="screenshots/progress.png" width=180></td>
+  </tr>
+ </table>
 
 ## Technology stack
 
