@@ -1,0 +1,12 @@
+{
+    "welcomelogin": "Welcome",
+    "input_phone": "Please input your phone number",
+    "input_phone_desc": "Automatically create an account after unregistered mobile phone number verification",
+    "get_validate_code": "Get SMS verification code",
+    "login": "Log In",
+    "Logout": "Log Out",
+    "My Fubi": "My Credits",
+    "chooseprice": "Choose Credits Package",
+    "home": "Home",
+    "my": "My"
+}

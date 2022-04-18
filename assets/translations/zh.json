@@ -1,0 +1,20 @@
+{
+    "welcomelogin": "欢迎登录",
+    "input_phone": "请输入手机号码",
+    "input_phone_desc": "未注册手机号验证后自动创建账号",
+    "get_validate_code": "获取短信验证码",
+    "login": "登录",
+    "Logout": "退出",
+    "My Fubi": "我的福币",
+    "chooseprice": "选择福币充值",
+    "home": "首页",
+    "my": "我的",
+    "foying": "佛音",
+    "foshu": "佛书",
+    "search": "搜索",
+    "searchhint": "输入关键词",
+    "History Search": "搜索历史",
+    "Nothingmoretoload": "已经到底了~",
+    "60fubi": "60福币(6元)",
+    "330fubi": "330福币(30元)"
+}
