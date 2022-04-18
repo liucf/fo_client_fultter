@@ -14,20 +14,28 @@ It is still under developing, have not published yet.
 
 ## Screenshots
 
-- Full Audio player
-  ![Screenshot](screenshots/player.png)
+![Register](screenshots/register.png | width=50)
+![Full Audio player](screenshots/player.png | width=50)
+![Home](screenshots/home.png | width=50)
+![Category](screenshots/category.png | width=50)
+![detail](screenshots/detail.png | width=50)
+![myaccount](screenshots/myaccount.png | width=50)
+![playing](screenshots/playing.png | width=50)
+![playlist](screenshots/playlist.png | width=50)
+![price](screenshots/price.png | width=50)
+![progress](screenshots/progress.png | width=50)
 
 ## Technology stack
 
 ### Server Side
 
-[Server Side Source Code](https://flutter.dev/docs/get-started/codelab)
+[Server Side Source Code](https://github.com/liucf/fo_server)
 
 - [Laravel](https://laravel.com)
 - [TailwindCss](https://tailwindcss.com)
 
 ### Client/Mobile Side
 
-[Client/Mobile Side Source Code]()
+[Client/Mobile Side Source Code](https://github.com/liucf/fo_client_fultter)
 
 - [Flutter](https://flutter.dev)
